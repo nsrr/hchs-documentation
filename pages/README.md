@@ -17,6 +17,10 @@ Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 - [HCHS/SOL Protocol and Data Collection Manuals](:files_path:/documentation?f=HCHS_SOL_Protocol_and_Data_Collection_Manuals.zip)
 - [HCHS/SOL Dataset Descriptions](:files_path:/documentation?f=HCHS_SOL_Dataset_Descriptions.zip)
 
+## Recent Changes
+
+Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
+
 ## Publication Links
 
 - [The Hispanic Community Health Study/Study of Latinos Sociocultural Ancillary Study: sample, design, and procedures.](http://www.ncbi.nlm.nih.gov/pubmed/24620452)
