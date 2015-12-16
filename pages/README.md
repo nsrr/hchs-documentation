@@ -4,7 +4,7 @@ The Hispanic Community Health Study / Study of Latinos (HCHS/SOL) is a multi-cen
 
 In October 2015, [datasets from the HCHS/SOL were pulled from BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs) for the purposes of replicating on the NSRR. Our intention is to provide a small portion of the overall HCHS/SOL dataset library and to post the raw physiological sleep signal files for HCHS/SOL subjects. We are working through the processing and preparation of the signal files and plan to make them available in 2016.
 
-The full suite of HCHS/SOL datasets can be [https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs](requested and downloaded through BioLINCC).
+The full suite of HCHS/SOL datasets can be [requested and downloaded through BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs).
 
 Learn more here: https://www2.cscc.unc.edu/hchs/
 
