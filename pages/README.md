@@ -8,7 +8,9 @@ The full suite of HCHS/SOL datasets can be [requested and downloaded through Bio
 
 ## Dataset Download
 
-<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a>
+<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 15 MB
+
+Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 
 ## Protocols and Manuals
 
