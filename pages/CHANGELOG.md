@@ -1,3 +1,7 @@
+### April 18, 2016
+
+- Update citation for users of the dataset
+
 ### December 29, 2015
 
 - Release 0.1.0 version of dataset
