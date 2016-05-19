@@ -10,7 +10,7 @@ The full suite of HCHS/SOL datasets can be [requested and downloaded through Bio
 
 When citing this dataset please use:
 
-1. Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep*. Advance online publication. pii: sp-00021-15
+1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5*, 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
 
 ## Dataset Download
 
