@@ -14,8 +14,10 @@ Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 
 ## Protocols and Manuals
 
-- [HCHS/SOL Protocol and Data Collection Manuals](:files_path:/documentation?f=HCHS_SOL_Protocol_and_Data_Collection_Manuals.zip)
-- [HCHS/SOL Dataset Descriptions](:files_path:/documentation?f=HCHS_SOL_Dataset_Descriptions.zip)
+- [Baseline Protocol and Data Collection Manuals](:files_path:/documentation?f=HCHS_SOL_Baseline_Protocol_and_Data_Collection_Manuals.zip)
+- [Baseline Dataset Descriptions](:files_path:/documentation?f=HCHS_SOL_Baseline_Dataset_Descriptions.zip)
+- [Sueño Ancillary Protocol and Data Collection Manuals](:files_path:/documentation?f=HCHS_SOL_Sueno_Ancillary_Study_Protocol_and_Data_Collection_Manuals.zip)
+- [Sueño Ancillary Dataset Descriptions](:files_path:/documentation?f=HCHS_SOL_Sueno_Ancillary_Study_Dataset_Descriptions.zip)
 
 ## Recent Changes
 
