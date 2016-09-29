@@ -8,10 +8,8 @@ The full suite of HCHS/SOL datasets can be [requested and downloaded through Bio
 
 ## Data Overview
 
-- `[/datasets](:files_path:/datasets)` Phenotype data from the HCHS/SOL Baseline and Sueno Ancillary visits. Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
-- `[/actigraphy](:files_path:/actigraphy)` Actigraphy data from the Sueno Ancillary visit. Read more in the Actigraphy Introduction.
-
-Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
+- **[/datasets](:files_path:/datasets)** Phenotype data from the HCHS/SOL Baseline and Sueno Ancillary visits. Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
+- **[/actigraphy](:files_path:/actigraphy)** Actigraphy data from the Sueno Ancillary visit. Read more in the Actigraphy Introduction.
 
 ## Protocols and Manuals
 
