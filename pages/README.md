@@ -6,9 +6,10 @@ The [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](https://www2
 
 The full suite of HCHS/SOL datasets can be [requested and downloaded through BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs).
 
-## Dataset Download
+## Data Overview
 
-<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a>
+- `[/datasets](:files_path:/datasets)` Phenotype data from the HCHS/SOL Baseline and Sueno Ancillary visits. Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
+- `[/actigraphy](:files_path:/actigraphy)` Actigraphy data from the Sueno Ancillary visit. Read more in the Actigraphy Introduction.
 
 Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 
