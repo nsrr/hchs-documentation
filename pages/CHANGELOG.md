@@ -1,3 +1,7 @@
+### September 29, 2016
+
+- Tweak data overview on documentation index
+
 ### September 27, 2016
 
 - Upload initial documentation for Sueno Ancillary study data
