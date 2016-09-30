@@ -2,7 +2,7 @@
 
 The [HCHS/SOL datasets](:files_path:/datasets) posted on the NSRR have gone through various post-processing steps in order to prepare the data for more widespread sharing. The datasets were based upon the [data prepared and deposited on BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs) by the Collaborative Studies Coordinating Center at UNC Chapel Hill. Changes and updates to the source data and variable definitions have been coordinated in the [hchs-data-dictionary repository](https://github.com/sleepepi/hchs-data-dictionary).
 
-The [HCHS/SOL documentation folder](:files_path:/documentation) contains more detailed descriptions of the data collection protocols and source datasets.
+The [documentation folder](:files_path:/documentation) contains more detailed descriptions of the data collection protocols and source datasets.
 
 ## Structure of the Dataset
 

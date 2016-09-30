@@ -1,3 +1,8 @@
+### September 30, 2016
+
+- 0.3.0 dataset released
+- Update actigraphy documentation
+
 ### September 29, 2016
 
 - Tweak data overview on documentation index
