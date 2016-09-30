@@ -6,7 +6,7 @@ The [documentation folder](:files_path:/documentation) contains manuals and in-d
 
 ## Epoch-by-epoch Files
 
-[Epoch-by-epoch (EBE) data files (CSV))](:files_path:/actigraphy) have been created for 1,887 participants with actigraphy data whose HCHS/SOL data are available for public use. Each row in these files represents 30 seconds worth of summary data from the actigraphy device. Based upon the Sueño actigraphy scoring, invalid (low quality) days were removed from these files. A day was marked invalid if 1) there were 4 or more hours of offwrist/invalid time or 2) the main sleep period contained offwrist/invalid time.
+[Epoch-by-epoch (EBE) data files (CSV)](:files_path:/actigraphy) have been created for 1,887 participants with actigraphy data whose HCHS/SOL data are available for public use. Each row in these files represents 30 seconds worth of summary data from the actigraphy device. Based upon the Sueño actigraphy scoring, invalid (low quality) days were removed from these files. A day was marked invalid if 1) there were 4 or more hours of offwrist/invalid time or 2) the main sleep period contained offwrist/invalid time.
 
 Notes:
 
