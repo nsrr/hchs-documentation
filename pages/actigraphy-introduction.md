@@ -18,6 +18,12 @@ Notes:
 
 Each epoch-by-epoch file contains 17 variables. The meanings of these variables are as follows:
 
+| Name    | Label                       |
+| ------- | --------------------------- |
+| `pid`   | Random BioLINCC ID for LAD  |
+| `sawa2` | Contact Occasion (1 or 2)   |
+
+
 1. `pid` Random BioLINCC ID for LAD
 2. `sawa2` Contact Occasion (1 or 2)
 3. `line`
