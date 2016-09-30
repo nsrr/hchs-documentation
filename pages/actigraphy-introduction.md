@@ -22,37 +22,18 @@ Each epoch-by-epoch file contains 17 variables. The meanings of these variables 
 | ------------- | --------------------------- | ------------------------------------------- |
 | `pid`         | Random BioLINCC ID for LAD  |                                             |
 | `sawa2`       | Contact Occasion (1 or 2)   |                                             |
-| `line`        | Contact Occasion (1 or 2)   |                                             |
-| `offwrist`    | Off wrist indicator         | 0 = On wrist | 1 = Off wrist                |
+| `line`        | Epoch line number           |                                             |
+| `offwrist`    | Off wrist indicator         | 0 = On wrist / 1 = Off wrist                |
 | `activity`    | Activity count              |                                             |
-| `marker`      | Event marker indicator      | 0 = Marker not pressed | 1 = Marker pressed |
+| `marker`      | Event marker indicator      | 0 = Marker not pressed / 1 = Marker pressed |
 | `whitelight`  | White light                 | Lux                                         |
 | `redlight`    | Red light                   | Microwatts per square centimeter            |
 | `greenlight`  | Green light                 | Microwatts per square centimeter            |
 | `bluelight`   | Blue light                  | Microwatts per square centimeter            |
-| `wake`        | Awake indicator             | 0 = Asleep | 1 = Awake                      |
+| `wake`        | Awake indicator             | 0 = Asleep / 1 = Awake                      |
 | `interval`    | Interval type               |                                             |
 | `starth`      | Start hour of recording     |                                             |
 | `day`         | Incrementing day indicator  |                                             |
-| `dayofweek`   | Day of the week             | 1 = Sunday | 2 = Monday | etc.              |
-| `validday`    | Valid day indicator         | 0 = Valid day | 1 = Invalid Day             |
+| `dayofweek`   | Day of the week             | 1 = Sunday / 2 = Monday / etc.              |
+| `validday`    | Valid day indicator         | 0 = Valid day / 1 = Invalid Day             |
 | `time`        | Clock time                  | HH:MM:SS                                    |
-
-
-1. `pid` Random BioLINCC ID for LAD
-2. `sawa2` Contact Occasion (1 or 2)
-3. `line`
-4. `offwrist`
-5. `activity`
-6. `marker`
-7. `whitelight`
-8. `redlight`
-9. `greenlight`
-10. `bluelight`
-11. `wake`
-12. `interval`
-13. `starth`
-14. `day`
-15. `dayofweek`
-16. `validday`
-17. `time`
