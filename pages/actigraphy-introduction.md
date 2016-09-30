@@ -18,10 +18,25 @@ Notes:
 
 Each epoch-by-epoch file contains 17 variables. The meanings of these variables are as follows:
 
-| Name    | Label                       |
-| ------- | --------------------------- |
-| `pid`   | Random BioLINCC ID for LAD  |
-| `sawa2` | Contact Occasion (1 or 2)   |
+| Name          | Label                       | Units / Categories                          |
+| ------------- | --------------------------- | ------------------------------------------- |
+| `pid`         | Random BioLINCC ID for LAD  |                                             |
+| `sawa2`       | Contact Occasion (1 or 2)   |                                             |
+| `line`        | Contact Occasion (1 or 2)   |                                             |
+| `offwrist`    | Off wrist indicator         | 0 = On wrist | 1 = Off wrist                |
+| `activity`    | Activity count              |                                             |
+| `marker`      | Event marker indicator      | 0 = Marker not pressed | 1 = Marker pressed |
+| `whitelight`  | White light                 | Lux                                         |
+| `redlight`    | Red light                   | Microwatts per square centimeter            |
+| `greenlight`  | Green light                 | Microwatts per square centimeter            |
+| `bluelight`   | Blue light                  | Microwatts per square centimeter            |
+| `wake`        | Awake indicator             | 0 = Asleep | 1 = Awake                      |
+| `interval`    | Interval type               |                                             |
+| `starth`      | Start hour of recording     |                                             |
+| `day`         | Incrementing day indicator  |                                             |
+| `dayofweek`   | Day of the week             | 1 = Sunday | 2 = Monday | etc.              |
+| `validday`    | Valid day indicator         | 0 = Valid day | 1 = Invalid Day             |
+| `time`        | Clock time                  | HH:MM:SS                                    |
 
 
 1. `pid` Random BioLINCC ID for LAD
