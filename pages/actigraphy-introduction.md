@@ -32,10 +32,10 @@ Each epoch-by-epoch file contains 17 variables. The meanings of these variables 
 | `bluelight`   | Blue light                  | Microwatts per square centimeter            |
 | `wake`        | Awake indicator<sup>*</sup> | 0 = Asleep / 1 = Awake                      |
 | `interval`    | Interval type<sup>*</sup>   |                                             |
-| `starth`      | Start hour of recording     |                                             |
+| `starth`      | Start hour of recording     | *Administrative variable*                   |
 | `day`         | Incrementing day indicator  |                                             |
 | `dayofweek`   | Day of the week             | 1 = Sunday / 2 = Monday / etc.              |
-| `validday`    | Valid day indicator         | 0 = Valid day / 1 = Invalid Day             |
+| `validday`    | Valid day indicator         | *Administrative variable*                   |
 | `time`        | Clock time                  | HH:MM:SS                                    |
 
 <sup>* The wake/sleep detection algorithm runs across the entire recording, though sleep in ACTIVE intervals is never counted toward overall sleep totals. Actual sleep is tallied within REST intervals only. REST-S intervals indicate the period between sleep onset and offset.
