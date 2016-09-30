@@ -11,7 +11,7 @@ The [documentation folder](:files_path:/documentation) contains manuals and in-d
 Notes:
 
 - The Sueno Ancillary study used actigraphy primarily as a means to estimate sleep and wake times, **not** as a means to assess physical activity.
-- The `day` indicator in the file runs from noon-to-noon (i.e. not midnight-to-midnight) because the goal was to have each individual day in the file wholly contain a singular main sleep period.
+- The `day` indicator in the file runs from noon-to-noon (i.e. not midnight-to-midnight) because the goal was to have each individual day in the file wholly contain a single main sleep period.
 - Dates have been removed from the file. Each epoch contains a clock time.
 
 ## Variable Description
