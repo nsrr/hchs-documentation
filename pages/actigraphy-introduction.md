@@ -30,10 +30,16 @@ Each epoch-by-epoch file contains 17 variables. The meanings of these variables 
 | `redlight`    | Red light                   | Microwatts per square centimeter            |
 | `greenlight`  | Green light                 | Microwatts per square centimeter            |
 | `bluelight`   | Blue light                  | Microwatts per square centimeter            |
-| `wake`        | Awake indicator             | 0 = Asleep / 1 = Awake                      |
-| `interval`    | Interval type               |                                             |
+| `wake`        | Awake indicator<sup>*</sup> | 0 = Asleep / 1 = Awake                      |
+| `interval`    | Interval type<sup>*</sup>   |                                             |
 | `starth`      | Start hour of recording     |                                             |
 | `day`         | Incrementing day indicator  |                                             |
 | `dayofweek`   | Day of the week             | 1 = Sunday / 2 = Monday / etc.              |
 | `validday`    | Valid day indicator         | 0 = Valid day / 1 = Invalid Day             |
 | `time`        | Clock time                  | HH:MM:SS                                    |
+
+<sup>* The wake/sleep detection algorithm runs across the entire recording.
+
+## References
+
+- [Patel, S. R., Weng, J., Rueschman, M., Dudley, K. A., Loredo, J. S., Mossavar-Rahmani, Y., Ramirez, M., Ramos, A. R., Reid, K., Seiger, A. N., Sotres-Alvarez, D., Zee, P. C., & Wang, R. (2015). Reproducibility of a Standardized Actigraphy Scoring Algorithm for Sleep in a US Hispanic/Latino Population. Sleep, 9, 1497–1503.](https://www.ncbi.nlm.nih.gov/pubmed/25845697)
