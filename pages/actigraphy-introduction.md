@@ -38,7 +38,7 @@ Each epoch-by-epoch file contains 17 variables. The meanings of these variables 
 | `validday`    | Valid day indicator         | 0 = Valid day / 1 = Invalid Day             |
 | `time`        | Clock time                  | HH:MM:SS                                    |
 
-<sup>* The wake/sleep detection algorithm runs across the entire recording.
+<sup>* The wake/sleep detection algorithm runs across the entire recording, though sleep in ACTIVE intervals is never counted toward overall sleep totals. The scorer marked REST intervals on the actogram and these are the portions of the recording where sleep is tallied. REST-S indicates the time between sleep onset and offset.
 
 ## References
 
