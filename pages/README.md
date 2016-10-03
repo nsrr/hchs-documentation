@@ -8,9 +8,9 @@ The full suite of HCHS/SOL datasets can be [requested and downloaded through Bio
 
 ## Data Overview
 
-**[/actigraphy](:files_path:/actigraphy)** ([introduction](:pages_path:/actigraphy-introduction.md))<br/> Wrist-worn actigraphy raw data from the Sueno Ancillary visit.
+**[/actigraphy](:files_path:/actigraphy)** ([introduction](:pages_path:/actigraphy-introduction.md))<br/> Wrist-worn actigraphy data from the Sueño Ancillary visit.
 
-**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Phenotype data from the Baseline and Sueno Ancillary visits.
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Phenotype data from the Baseline and Sueño Ancillary visits.
 
 ## Protocols and Manuals
 
