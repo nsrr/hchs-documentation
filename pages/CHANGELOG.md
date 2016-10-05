@@ -1,3 +1,7 @@
+### October 5, 2016
+
+- Correct a couple Sueño spellings
+
 ### September 30, 2016
 
 - 0.3.0 dataset released
