@@ -1,3 +1,7 @@
+### October 6, 2016
+
+- Add links to support email and Forum
+
 ### October 5, 2016
 
 - Correct a couple Sueño spellings

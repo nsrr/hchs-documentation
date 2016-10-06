@@ -29,3 +29,7 @@ The participant derived file includes several demographic variables from the HCH
 ### `sawa_lad1.sas7bdat` (Sueño Ancillary Visit)
 
 Participants were given a wrist actigraph device (Respironics Spectrum); this device records movement and is used to infer sleep and wake times. The participant was asked to wear the device for 7 consecutive days and nights. At the Field Center, actigraphy data was downloaded and transmitted to the Sleep Reading Center. Data released to investigators ONLY include sleep studies with valid status (SAWA4=1), and the variable with the invalid reason (SAWA5) was removed.
+
+## Questions?
+
+Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.

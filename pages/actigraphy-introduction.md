@@ -12,7 +12,7 @@ Notes:
 
 - The Sueño Ancillary study used actigraphy primarily as a means to estimate sleep and wake times, **not** as a means to assess physical activity.
 - The `day` indicator in the file runs from noon-to-noon (i.e. not midnight-to-midnight) because the goal was to have each individual day in the file wholly contain a single main sleep period.
-- Dates have been removed from the file. Each epoch contains a clock time.
+- Dates have been removed. Each epoch contains a clock time.
 
 ## Variable Description
 
@@ -43,3 +43,7 @@ Each epoch-by-epoch file contains 17 variables. The meanings of these variables 
 ## References
 
 - [Patel, S. R., Weng, J., Rueschman, M., Dudley, K. A., Loredo, J. S., Mossavar-Rahmani, Y., Ramirez, M., Ramos, A. R., Reid, K., Seiger, A. N., Sotres-Alvarez, D., Zee, P. C., & Wang, R. (2015). Reproducibility of a Standardized Actigraphy Scoring Algorithm for Sleep in a US Hispanic/Latino Population. Sleep, 9, 1497–1503.](https://www.ncbi.nlm.nih.gov/pubmed/25845697)
+
+## Questions?
+
+Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
