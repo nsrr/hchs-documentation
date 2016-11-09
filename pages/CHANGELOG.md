@@ -1,3 +1,7 @@
+### November 9, 2016
+
+- Add Sueno reference to main citation list
+
 ### October 6, 2016
 
 - Add links to support email and Forum
