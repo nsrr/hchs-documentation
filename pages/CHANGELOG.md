@@ -1,6 +1,6 @@
 ### March 13, 2017
 
-- Prepare additiona of polysomnography raw data
+- Add polysomnography raw data and initial documentation
 
 ### November 9, 2016
 
