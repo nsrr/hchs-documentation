@@ -2,7 +2,7 @@
 
 The [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](http://www2.cscc.unc.edu/hchs/) is a multi-center epidemiologic study in Hispanic/Latino populations to determine the role of acculturation in the prevalence and development of disease, and to identify risk factors playing a protective or harmful role in Hispanics/Latinos. The study is sponsored by the National Heart, Lung, and Blood Institute (NHLBI) and six other institutes, centers, and offices of the National Institutes of Health (NIH) contributed to the first phase of the project.
 
-[Datasets from HCHS/SOL were pulled from BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs) for the purposes of replicating on the NSRR. [Raw polysomnography data](:pages_path:/polysomnography-introduction.md) are available from the HCHS/SOL Baseline visit, while [raw actigraphy data](:pages_path:/actigraphy-introduction.md) are available from the Sueño Ancillary visit.
+[Datasets from HCHS/SOL were pulled from BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs) for the purposes of replicating on the NSRR. [Raw polysomnography data](:pages_path:/polysomnography-introduction.md) are available from the HCHS/SOL Baseline visit and [raw actigraphy data](:pages_path:/actigraphy-introduction.md) are available from the Sueño Ancillary visit.
 
 The full suite of HCHS/SOL datasets can be [requested and downloaded through BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs).
 
