@@ -24,7 +24,7 @@ The full suite of HCHS/SOL datasets can be [requested and downloaded through Bio
 
 ## Equipment
 
-- [ARES Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
+- [ARES Unicorder Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
 
 ## Recent changes
 

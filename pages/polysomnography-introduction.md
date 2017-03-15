@@ -1,6 +1,6 @@
 # Polysomnography introduction
 
-In-home polysomnography (PSG) was conducted using the Apnea Risk Evaluation System (ARES, Unicorder, Advanced Brain Imaging, Carlsbad CA).  Nocturnal recordings were transmitted to the centralized reading center at Brigham and Women's Hospital and data were scored by trained technicians using current guidelines.
+In-home polysomnography (PSG) was conducted using the Apnea Risk Evaluation System (ARES Unicorder, Advanced Brain Imaging, Carlsbad CA).  Nocturnal recordings were transmitted to the centralized reading center at Brigham and Women's Hospital and data were scored by trained technicians using current guidelines.
 
 Notes:
 
@@ -16,7 +16,7 @@ Notes:
 
 ## Known issues
 
-- *Not all subjects with sleep monitor data have EDF/XML files* - There were issues converting ARES raw data to EDF/XML. A brief summary is below:
+- *Not all subjects with sleep monitor data have EDF/XML files* - There were issues converting ARES Unicorder raw data to EDF/XML. A brief summary is below:
   - Studies were processed using ARES Insight Software to produce EDF signal and XML annotation files. Pilot studies were not processed. Studies with an overall quality of -1 (no valid data) were not processed. There were 395 studies with an overall quality grade of 0 or greater that were missing. Some studies were missing components to properly complete the exportation process. Some studies produced errors during the exportation process. Duplicate studies were removed. Studies that did not pass integrity checks were removed. Studies without an official HCHS ID were removed. Studies from subjects that were not part of the HCHS Limited Access Dataset were removed.
 
 ## History / changelog
