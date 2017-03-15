@@ -16,8 +16,8 @@ Notes:
 
 ## Known issues
 
-- *Not all subjects with sleep monitor data have EDF/XML files* - There were issues in converting the ARES raw data to EDF/XML. A brief summary is below:
-  - Studies were processed using ARES Insight Software to produce EDF and XML annotation files. Pilot studies were not processed. Studies with an overall quality of -1 (no valid data) were not processed. There were 395 studies with an overall quality grade of 0 or greater that were missing. Some studies were missing components to properly complete the exportation process. Some studies produced errors during the exportation process. Duplicate studies were removed. Studies that did not pass integrity checks were removed. Studies without an official HCHS ID were removed. Studies from subjects that were not part of the HCHS Limited Access Dataset were removed.
+- *Not all subjects with sleep monitor data have EDF/XML files* - There were issues converting ARES raw data to EDF/XML. A brief summary is below:
+  - Studies were processed using ARES Insight Software to produce EDF signal and XML annotation files. Pilot studies were not processed. Studies with an overall quality of -1 (no valid data) were not processed. There were 395 studies with an overall quality grade of 0 or greater that were missing. Some studies were missing components to properly complete the exportation process. Some studies produced errors during the exportation process. Duplicate studies were removed. Studies that did not pass integrity checks were removed. Studies without an official HCHS ID were removed. Studies from subjects that were not part of the HCHS Limited Access Dataset were removed.
 
 ## History / changelog
 
