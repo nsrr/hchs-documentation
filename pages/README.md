@@ -22,6 +22,10 @@ The full suite of HCHS/SOL datasets can be [requested and downloaded through Bio
 - [Sueño Ancillary Protocol and Data Collection Manuals](:files_path:/documentation?f=HCHS_SOL_Sueno_Ancillary_Study_Protocol_and_Data_Collection_Manuals.zip)
 - [Sueño Ancillary Dataset Descriptions](:files_path:/documentation?f=HCHS_SOL_Sueno_Ancillary_Study_Dataset_Descriptions.zip)
 
+## Equipment
+
+- [ARES Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
+
 ## Recent changes
 
 Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)

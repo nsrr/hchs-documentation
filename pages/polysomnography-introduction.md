@@ -4,6 +4,7 @@ In-home polysomnography (PSG) was conducted using the Apnea Risk Evaluation Syst
 
 Notes:
 
+- [ARES Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
 - [Baseline Sleep Monitoring Manual](:files_path:/documentation?f=HCHS_SOL_Baseline_Sleep_Monitoring_Manual.pdf)
 
 ## Signal and annotation files

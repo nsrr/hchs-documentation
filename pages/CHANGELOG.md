@@ -1,3 +1,7 @@
+### March 15, 2017
+
+- Added montage and sampling information for ARES PSG
+
 ### March 13, 2017
 
 - Add polysomnography raw data and initial documentation
