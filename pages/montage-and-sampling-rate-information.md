@@ -5,9 +5,9 @@ The settings below represent the standards set at the beginning of the project. 
 |  Channel     |        Channel derivation         |  Sampling rate (Hz)  |  Hardware filters (Hz)  |              Sensor type                                                                |
 |:------------:|:---------------------------------:|:--------------------:|:-----------------------:|:---------------------------------------------------------------------------------------:|
 | A-Pulse      |                                   |  1                   |                         | Computed Signal derived from photo diodes (reflectance oximetry/transcutaneous monitor) |
-| A-SpO2       |                                   |  1                   |  Low Pass 100           | Computed Signal derived from photo diodes (reflectance oximetry/transcutaneous monitor) |
-| A-Snore      |                                   |  10                  |  Low Pass 100           | Microphone                                                                              |
-| A-Flow       |                                   |  10                  |  Low Pass 100           | Nasal Cannula connected to a pressure transducer                                        |
-| HMov         |                                   |  10                  |  Low Pass 100           | Computed signal derived from accelerometers                                             |
-| HPos         |                                   |  1                   |  Low Pass 100           | Computed signal derived from accelerometers                                             |
-| FVP/A-Effort |                                   |  5                   |  Low Pass 100           | Ares Unicorder Effort-central venous pressure change                                    |
+| A-SpO2       |                                   |  1                   |                         | Computed Signal derived from photo diodes (reflectance oximetry/transcutaneous monitor) |
+| A-Snore      |                                   |  10                  |                         | Microphone                                                                              |
+| A-Flow       |                                   |  10                  |                         | Nasal Cannula connected to a pressure transducer                                        |
+| HMov         |                                   |  10                  |                         | Computed signal derived from accelerometers                                             |
+| HPos         |                                   |  1                   |                         | Computed signal derived from accelerometers                                             |
+| FVP/A-Effort |                                   |  5                   |                         | Ares Unicorder Effort-central venous pressure change                                    |
