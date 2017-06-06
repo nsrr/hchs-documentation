@@ -1,3 +1,7 @@
+### June 6, 2017
+
+- Add notes about XML annotations/mapping
+
 ### March 15, 2017
 
 - Added montage and sampling information for ARES PSG
