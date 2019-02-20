@@ -1,3 +1,8 @@
+### February 20, 2019
+
+- Add notes about Medical History dataset
+- Release version 0.4.0 dataset
+
 ### June 6, 2017
 
 - Add notes about XML annotations/mapping
