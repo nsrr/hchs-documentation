@@ -1,3 +1,7 @@
+### June 13, 2019
+
+- Add note about [**any_permit**](https://sleepdata.org/datasets/hchs/variables/any_permit) variable and data sharing to dataset introduction
+
 ### February 20, 2019
 
 - Add notes about Medical History dataset
