@@ -8,7 +8,7 @@ The [documentation folder](:files_path:/documentation) contains more detailed de
 
 For the NSRR, we have chosen key datasets and variables from the BioLINCC posting and collapsed them into new, NSRR-specific datasets. The following HCHS/SOL individual datasets have been converted and processed into the NSRR-specific format.
 
-**Note:** Participants were asked at the time of informed consent about future data sharing. The HCHS/SOL Coordinating Center **removed data for subjects** who did not consent to sharing their data. The [**any_permit**](https://sleepdata.org/datasets/hchs/variables/any_permit) may be used to identify this subset of participants.
+**Note:** Participants were asked at the time of informed consent about future data sharing. The HCHS/SOL Coordinating Center **removed data for subjects** who did not consent to sharing their data. The [**any_permit**](https://sleepdata.org/datasets/hchs/variables/any_permit) indicates which subjects consented to sharing and which did not. Among those who did not consent to sharing, data will be set to missing.
 
 ### `part_derv_lad1.sas7bdat` (Baseline Visit)
 
