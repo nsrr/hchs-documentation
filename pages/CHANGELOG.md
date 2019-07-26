@@ -1,3 +1,7 @@
+### July 26, 2019
+
+- Add notes about two new Sueno datasets added in dataset version 0.5.0
+
 ### June 13, 2019
 
 - Add note about [**any_permit**](https://sleepdata.org/datasets/hchs/variables/any_permit) variable and data sharing to dataset introduction

@@ -36,6 +36,20 @@ The participant derived file includes several demographic variables from the HCH
 
 Participants were given a wrist actigraph device (Respironics Spectrum); this device records movement and is used to infer sleep and wake times. The participant was asked to wear the device for 7 consecutive days and nights. At the Field Center, actigraphy data was downloaded and transmitted to the Sleep Reading Center. Data released to investigators ONLY include sleep studies with valid status (SAWA4=1), and the variable with the invalid reason (SAWA5) was removed.
 
+### `spea_lad1.sas7bdat` (Sueño Ancillary Visit)
+
+This 18 item instrument provides information about sleep patterns and symptoms of sleep disturbances.
+
+Please note that the Spanish translation for question 18 was updated in SUENO on 09-17-2011 to match the English translation; it does not match the Spanish translation in the HCHS main study Sleep Questionnaire (SLSA).
+
+SUENO SPSA18 original translation and HCHS/SOL main study SLSA18 translation: *¿Son estos síntomas peores en el transcurso del día o durante la noche?*
+
+SUENO SPSA18 updated translation: *¿Son estos síntomas peores mas tarde en el día o durante la noche?*
+
+### `sqea_lad1.sas7bdat` (Sueño Ancillary Visit)
+
+This 25 item instrument provides information about the participant sleep patterns. It also evaluates circadian rhythms, insomnia, and sleep hygiene.
+
 ## Questions?
 
 Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
