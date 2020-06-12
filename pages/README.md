@@ -6,6 +6,18 @@ The [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](http://www2.
 
 The full suite of HCHS/SOL datasets can be [requested and downloaded through BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs).
 
+## Citation and acknowledgement
+
+When using this dataset, please cite the following:
+
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>
+> [Redline S, Sotres-Alvarez D, Loredo J, Hall M, Patel SR, Ramos A, Shah N, Ries A, Arens R, Barnhart J, Youngblood M, Zee P, Daviglus ML. Sleep-disordered breathing in Hispanic/Latino individuals of diverse backgrounds. The Hispanic Community Health Study/Study of Latinos. Am J Respir Crit Care Med. 2014 Feb 1;189(3):335-44. doi: 10.1164/rccm.201309-1735OC. PMID: 24392863; PMCID: PMC3977733.](https://pubmed.ncbi.nlm.nih.gov/24392863/)
+
+Please include the following text in the Acknowledgements:
+
+> The Hispanic Community Health Study/Study of Latinos (HCHS/SOL) was performed as a collaborative study supported by contracts from the NHLBI to the University of North Carolina (N01-HC65233), University of Miami (N01-HC65234), Albert Einstein College of Medicine (N01-HC65235), Northwestern University (N01-HC65236), and San Diego State University (N01-HC65237) (AG05407, AR35582, AG05394, AR35584, AR35583, AG08415). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+
 ## Data overview
 
 **[/actigraphy](:files_path:/actigraphy)** ([introduction](:pages_path:/actigraphy-introduction.md))<br/> Wrist-worn actigraphy data from the Sueño Ancillary visit.
@@ -33,15 +45,6 @@ Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
 ## Publications
 
 - [The Hispanic Community Health Study/Study of Latinos Sociocultural Ancillary Study: sample, design, and procedures.](http://www.ncbi.nlm.nih.gov/pubmed/24620452)
-
-## Citation
-
-When citing this dataset please use:
-
-1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
-2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
-3. Redline S, Sotres-Alvarez D, Loredo J, Hall M, Patel SR, Ramos A, Shah N, Ries A, Arens R, Barnhart J, Youngblood M, Zee P, Daviglus ML. [**Sleep-disordered breathing in Hispanic/Latino individuals of diverse backgrounds. The Hispanic Community Health Study/Study of Latinos.**](https://www.ncbi.nlm.nih.gov/pubmed/24392863) Am J Respir Crit Care Med. 2014 Feb 1;189(3):335-44. doi: 10.1164/rccm.201309-1735OC. PubMed PMID: 24392863; PubMed Central PMCID: PMC3977733.
-4. Patel SR, Weng J, Rueschman M, Dudley KA, Loredo JS, Mossavar-Rahmani Y, Ramirez M, Ramos AR, Reid K, Seiger AN, Sotres-Alvarez D, Zee PC, Wang R. [**Reproducibility of a Standardized Actigraphy Scoring Algorithm for Sleep in a US Hispanic/Latino Population.**](https://www.ncbi.nlm.nih.gov/pubmed/25845697) Sleep. 2015 Sep 1;38(9):1497-503. doi: 10.5665/sleep.4998. PubMed PMID: 25845697; PubMed Central PMCID: PMC4531418.
 
 ## Questions?
 

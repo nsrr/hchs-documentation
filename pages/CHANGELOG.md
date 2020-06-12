@@ -1,3 +1,7 @@
+### June 12, 2020
+
+- Update suggested citation and acknowledgement language
+
 ### July 26, 2019
 
 - Add notes about two new Sueno datasets added in dataset version 0.5.0
