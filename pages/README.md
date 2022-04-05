@@ -1,6 +1,6 @@
 # About
 
-The [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](http://www2.cscc.unc.edu/hchs/) is a multi-center epidemiologic study in Hispanic/Latino populations to determine the role of acculturation in the prevalence and development of disease, and to identify risk factors playing a protective or harmful role in Hispanics/Latinos. The study is sponsored by the National Heart, Lung, and Blood Institute (NHLBI) and six other institutes, centers, and offices of the National Institutes of Health (NIH) contributed to the first phase of the project.
+The [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](https://sites.cscc.unc.edu/hchs/) is a multi-center epidemiologic study in Hispanic/Latino populations to determine the role of acculturation in the prevalence and development of disease, and to identify risk factors playing a protective or harmful role in Hispanics/Latinos. The study is sponsored by the National Heart, Lung, and Blood Institute (NHLBI) and six other institutes, centers, and offices of the National Institutes of Health (NIH) contributed to the first phase of the project.
 
 [Datasets from HCHS/SOL were pulled from BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs) for the purposes of replicating on the NSRR. [Raw polysomnography data](:pages_path:/polysomnography-introduction.md) are available from the HCHS/SOL Baseline visit and [raw actigraphy data](:pages_path:/actigraphy-introduction.md) are available from the Sueño Ancillary visit.
 
@@ -19,6 +19,8 @@ Please include the following text in the Acknowledgements:
 > The Hispanic Community Health Study/Study of Latinos (HCHS/SOL) was performed as a collaborative study supported by contracts from the NHLBI to the University of North Carolina (N01-HC65233), University of Miami (N01-HC65234), Albert Einstein College of Medicine (N01-HC65235), Northwestern University (N01-HC65236), and San Diego State University (N01-HC65237) (AG05407, AR35582, AG05394, AR35584, AR35583, AG08415). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## Data overview
+
+Read more about the study data and analytic methods [at the Collaborative Studies Coordinating Center site](https://sites.cscc.unc.edu/hchs/study-data-and-analytic-methods-pub).
 
 **[/actigraphy](:files_path:/actigraphy)** ([introduction](:pages_path:/actigraphy-introduction.md))<br/> Wrist-worn actigraphy data from the Sueño Ancillary visit.
 
