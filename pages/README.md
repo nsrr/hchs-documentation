@@ -6,6 +6,10 @@ The [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](https://site
 
 The full suite of HCHS/SOL datasets can be [requested and downloaded through BioLINCC](https://biolincc.nhlbi.nih.gov/studies/hchssol/?q=hchs).
 
+## Data preamble and access restrictions
+
+The Hispanic Community Health Study / Study of Latinos (HCHS/SOL) dataset is only available for non-commercial use.
+
 ## Citation and acknowledgement
 
 When using this dataset, please cite the following:
