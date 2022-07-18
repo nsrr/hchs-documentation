@@ -1,5 +1,3 @@
-**Note: As of June 2022, new HCHS data requests are not being approved. Please check back later for updates.**
-
 # About
 
 The [Hispanic Community Health Study / Study of Latinos (HCHS/SOL)](https://sites.cscc.unc.edu/hchs/) is a multi-center epidemiologic study in Hispanic/Latino populations to determine the role of acculturation in the prevalence and development of disease, and to identify risk factors playing a protective or harmful role in Hispanics/Latinos. The study is sponsored by the National Heart, Lung, and Blood Institute (NHLBI) and six other institutes, centers, and offices of the National Institutes of Health (NIH) contributed to the first phase of the project.
