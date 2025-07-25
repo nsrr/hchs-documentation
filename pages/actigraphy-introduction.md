@@ -48,6 +48,14 @@ Each epoch-by-epoch file contains 19 variables. The meanings of these variables 
 
 - [Patel, S. R., Weng, J., Rueschman, M., Dudley, K. A., Loredo, J. S., Mossavar-Rahmani, Y., Ramirez, M., Ramos, A. R., Reid, K., Seiger, A. N., Sotres-Alvarez, D., Zee, P. C., & Wang, R. (2015). Reproducibility of a Standardized Actigraphy Scoring Algorithm for Sleep in a US Hispanic/Latino Population. Sleep, 9, 1497–1503.](https://www.ncbi.nlm.nih.gov/pubmed/25845697)
 
+## History / changelog
+
+*July 2025*
+- Add new `date_shifted` and `actigraphy_month_start` variables
+
+*September 2016*
+- Upload actigraphy epoch-by-epoch data to sleepdata.org
+
 ## Questions?
 
 Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
